@@ -5,7 +5,7 @@ categories: 入门
 tags: 
 - hello
 ---
-
+[hexo入门](http://ibruce.info/2013/11/22/hexo-your-blog/)
 [next主题](http://theme-next.iissnan.com/getting-started.html)
 [vim配置，mac自动脚本](https://github.com/barretlee/autoconfig-mac-vimrc)
 
@@ -16,6 +16,7 @@ tags:
 [android studio配色方案](https://meedamian.com/post/deuglifying-android-studio/?hi)
 <!--more-->
 android studio默认字体menlo，14号
+__next的配置是在theme/_config.yml而不是站点配置文件__
 
 hexo，deploy git需要配置
 需要安装工具
@@ -26,6 +27,9 @@ npm install hexo-deployer-git --save
 >branch: master
 >冒号后面有空格
 
->1. markdown列表1
+>文字引用
 >>this is nested
 3. markdown列表3
+  sudo xxx code block
+*斜体*
+**bold**
