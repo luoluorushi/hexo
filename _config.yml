@@ -10,6 +10,14 @@ author: 珞珞如石
 language: zh-Hans
 timezone:
 
+
+#scheme
+#scheme: Muse
+#scheme: Mist
+scheme: Pisces
+sidebar:
+  position: left
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -71,3 +79,13 @@ deploy:
   type: git
   repo: https://github.com/luoluorushi/luoluorushi.github.io.git
   branch: master
+
+  
+
+menu:
+  home: /
+  archives: /archives
+  #about: /about
+  #categories: /categories
+  tags: /tags
+

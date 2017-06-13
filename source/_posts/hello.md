@@ -2,7 +2,7 @@
 title: hello world
 date: 2017-06-12 13:29:53
 tags: 
-- Hello
+- hello
 ---
 hexo，deploy git需要配置
 type: git
