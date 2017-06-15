@@ -7,3 +7,15 @@ tags:
 >u + CTRL-R
 2. Change entire line
 >cc
+3. 到行首
+>0
+4. navigate back and navigate next
+>CTRL-o and CTRL-i
+5. navigate line
+>499G
+
+
+## vim教程
+```
+vimtutor
+```

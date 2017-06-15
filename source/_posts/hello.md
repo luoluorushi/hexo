@@ -7,6 +7,7 @@ tags:
 ---
 [hexo入门](http://ibruce.info/2013/11/22/hexo-your-blog/)
 [next主题](http://theme-next.iissnan.com/getting-started.html)
+[Markdown语法](http://simontse.github.io/2016/03/25/MarkDown%E8%AF%AD%E6%B3%95/)
 [vim配置，mac自动脚本](https://github.com/barretlee/autoconfig-mac-vimrc)
 
 [mac终端知识](http://macshuo.com/?p=676)
@@ -22,6 +23,18 @@ hexo，deploy git需要配置
 需要安装工具
 npm install hexo-deployer-git --save
 
+```java
+public class java(){
+
+public int val1;
+public void getinstance();
+public String toString() {
+  return "hllello world";
+}
+
+
+```
+
 >type: git
 >repo: https://**luoluorushi.github.io
 >branch: master
@@ -29,7 +42,8 @@ npm install hexo-deployer-git --save
 
 >文字引用
 >>this is nested
-3. markdown列表3
-  sudo xxx code block
+> markdown列表3
+
 *斜体*
 **bold**
+{% post_link vim 点击这里查看这篇文章 %}
