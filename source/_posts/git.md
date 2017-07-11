@@ -22,3 +22,7 @@ git commit
 git add .
 git commit
 ```
+4. 查看当前配置的远程仓库
+```
+git remote -v
+```
